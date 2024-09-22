@@ -1,2 +1,2 @@
 # fancyhotelweb.github.io
-hello
+How is your day !!
